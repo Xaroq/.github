@@ -9,7 +9,6 @@ The project explores how AI can enhance everyday browsing — such as understand
 - **Transparency** in how things work
 - **Modular and open design**
 - **User control and privacy by default**
-- Built with **WebKitGTK** for a clean, lightweight foundation
 
 Xaroq is developed openly and iteratively.  
 Feedback, ideas, and contributions are welcome.
