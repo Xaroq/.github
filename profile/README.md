@@ -12,3 +12,5 @@ The project explores how AI can enhance everyday browsing — such as understand
 
 Xaroq is developed openly and iteratively.  
 Feedback, ideas, and contributions are welcome.
+
+Join us on Discord: https://discord.gg/vPE2DPbR
